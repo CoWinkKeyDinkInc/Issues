@@ -22,7 +22,7 @@ Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) 
 * Be clear and concise in your description
 * Take advantage of [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)--it's awesome, and it makes your submission that much better! :smile:
 * Use a *vanilla* environment, making sure to remove any browser extensions or client-side mods
-* Use a [fenced code block](https://help.github.com/articles/github-flavored-markdown#fenced-code-blocks) if you need to include a XML refrence on a map issue
+* Use a [fenced code block](https://help.github.com/articles/github-flavored-markdown#fenced-code-blocks) if you need to include an XML reference on a map issue
 
 ### Do not:
 
